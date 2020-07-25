@@ -1,4 +1,5 @@
 name: Update gist with WakaTime stats
+
 on:
   schedule:
     - cron: "0 0 * * *"
